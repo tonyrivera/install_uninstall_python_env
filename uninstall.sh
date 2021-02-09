@@ -16,3 +16,4 @@ echo "Deactivating virtual environment"
 deactivate
 
 echo "Removing virtual environment located at '$(pwd)/venv'"
+rm -f $(pwd)/venv/
