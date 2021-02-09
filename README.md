@@ -1,2 +1,2 @@
 # install_uninstall_python_env
-Shell scripts to install and uninstall python's virtual environment venv on OSX Catalina Zsh shell
+Shell scripts to create, activate, and teardown python virtual environments venv on OSX Catalina Zsh shell
