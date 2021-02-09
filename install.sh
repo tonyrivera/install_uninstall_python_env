@@ -15,7 +15,7 @@ python3 -m venv $(pwd)/venv
 echo "Activating virtual environment"
 source $(pwd)/venv/bin/activate
 
-echo "Upgrading pip & installing modules in virtual enviornment..."
+echo "Upgrading pip & installing modules in virtual environment..."
 python3 -m pip install --upgrade pip
 python3 -m pip install -r requirements.txt
 
